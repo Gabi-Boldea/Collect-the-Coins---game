@@ -1,0 +1,31 @@
+D:\A\Boldea Gabriel\P_Boldea_Gabriel\P_Boldea_Gabriel\bin\Debug\P_Boldea_Gabriel.exe.config
+D:\A\Boldea Gabriel\P_Boldea_Gabriel\P_Boldea_Gabriel\bin\Debug\P_Boldea_Gabriel.exe
+D:\A\Boldea Gabriel\P_Boldea_Gabriel\P_Boldea_Gabriel\bin\Debug\P_Boldea_Gabriel.pdb
+D:\A\Boldea Gabriel\P_Boldea_Gabriel\P_Boldea_Gabriel\obj\Debug\P_Boldea_Gabriel.csprojAssemblyReference.cache
+D:\A\Boldea Gabriel\P_Boldea_Gabriel\P_Boldea_Gabriel\obj\Debug\P_Boldea_Gabriel.Form1.resources
+D:\A\Boldea Gabriel\P_Boldea_Gabriel\P_Boldea_Gabriel\obj\Debug\P_Boldea_Gabriel.Properties.Resources.resources
+D:\A\Boldea Gabriel\P_Boldea_Gabriel\P_Boldea_Gabriel\obj\Debug\P_Boldea_Gabriel.csproj.GenerateResource.cache
+D:\A\Boldea Gabriel\P_Boldea_Gabriel\P_Boldea_Gabriel\obj\Debug\P_Boldea_Gabriel.csproj.CoreCompileInputs.cache
+D:\A\Boldea Gabriel\P_Boldea_Gabriel\P_Boldea_Gabriel\obj\Debug\P_Boldea_Gabriel.exe
+D:\A\Boldea Gabriel\P_Boldea_Gabriel\P_Boldea_Gabriel\obj\Debug\P_Boldea_Gabriel.pdb
+C:\Users\gabib\OneDrive\Informatica\C#\P_Boldea_Gabriel\P_Boldea_Gabriel\bin\Debug\P_Boldea_Gabriel.exe.config
+C:\Users\gabib\OneDrive\Informatica\C#\P_Boldea_Gabriel\P_Boldea_Gabriel\bin\Debug\P_Boldea_Gabriel.exe
+C:\Users\gabib\OneDrive\Informatica\C#\P_Boldea_Gabriel\P_Boldea_Gabriel\bin\Debug\P_Boldea_Gabriel.pdb
+C:\Users\gabib\OneDrive\Informatica\C#\P_Boldea_Gabriel\P_Boldea_Gabriel\obj\Debug\P_Boldea_Gabriel.csprojAssemblyReference.cache
+C:\Users\gabib\OneDrive\Informatica\C#\P_Boldea_Gabriel\P_Boldea_Gabriel\obj\Debug\P_Boldea_Gabriel.Form1.resources
+C:\Users\gabib\OneDrive\Informatica\C#\P_Boldea_Gabriel\P_Boldea_Gabriel\obj\Debug\P_Boldea_Gabriel.Properties.Resources.resources
+C:\Users\gabib\OneDrive\Informatica\C#\P_Boldea_Gabriel\P_Boldea_Gabriel\obj\Debug\P_Boldea_Gabriel.csproj.GenerateResource.cache
+C:\Users\gabib\OneDrive\Informatica\C#\P_Boldea_Gabriel\P_Boldea_Gabriel\obj\Debug\P_Boldea_Gabriel.csproj.CoreCompileInputs.cache
+C:\Users\gabib\OneDrive\Informatica\C#\P_Boldea_Gabriel\P_Boldea_Gabriel\obj\Debug\P_Boldea_Gabriel.exe
+C:\Users\gabib\OneDrive\Informatica\C#\P_Boldea_Gabriel\P_Boldea_Gabriel\obj\Debug\P_Boldea_Gabriel.pdb
+C:\Users\Gabi\Desktop\proiect\C#\P_Boldea_Gabriel\P_Boldea_Gabriel\bin\Debug\P_Boldea_Gabriel.exe.config
+C:\Users\Gabi\Desktop\proiect\C#\P_Boldea_Gabriel\P_Boldea_Gabriel\bin\Debug\P_Boldea_Gabriel.exe
+C:\Users\Gabi\Desktop\proiect\C#\P_Boldea_Gabriel\P_Boldea_Gabriel\bin\Debug\P_Boldea_Gabriel.pdb
+C:\Users\Gabi\Desktop\proiect\C#\P_Boldea_Gabriel\P_Boldea_Gabriel\obj\Debug\P_Boldea_Gabriel.csproj.AssemblyReference.cache
+C:\Users\Gabi\Desktop\proiect\C#\P_Boldea_Gabriel\P_Boldea_Gabriel\obj\Debug\P_Boldea_Gabriel.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gabi\Desktop\proiect\C#\P_Boldea_Gabriel\P_Boldea_Gabriel\obj\Debug\P_Boldea_Gabriel.Form1.resources
+C:\Users\Gabi\Desktop\proiect\C#\P_Boldea_Gabriel\P_Boldea_Gabriel\obj\Debug\P_Boldea_Gabriel.Properties.Resources.resources
+C:\Users\Gabi\Desktop\proiect\C#\P_Boldea_Gabriel\P_Boldea_Gabriel\obj\Debug\P_Boldea_Gabriel.csproj.GenerateResource.cache
+C:\Users\Gabi\Desktop\proiect\C#\P_Boldea_Gabriel\P_Boldea_Gabriel\obj\Debug\P_Boldea_Gabriel.csproj.CoreCompileInputs.cache
+C:\Users\Gabi\Desktop\proiect\C#\P_Boldea_Gabriel\P_Boldea_Gabriel\obj\Debug\P_Boldea_Gabriel.exe
+C:\Users\Gabi\Desktop\proiect\C#\P_Boldea_Gabriel\P_Boldea_Gabriel\obj\Debug\P_Boldea_Gabriel.pdb
